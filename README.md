@@ -15,6 +15,7 @@ Using JS more effectively instead of html
 Adding social media funcions
 Adding actual professional photographs
 Adding more projects
+Resume page
 
 **Links**
 Site: https://devondevaughnn.github.io/updatePortfolio
