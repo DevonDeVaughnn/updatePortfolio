@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,300&display=swap');
 body{
-    background-image: url("https://img.freepik.com/free-vector/red-circuit-microchip-technology-background-hi-tech-digital-security-concept-design-free-space-text-put-illustration_34926-240.jpg?size=626&ext=jpg&ga=GA1.2.1304281140.1598140800");
+    background-image: url("https://cdn.wallpaperjam.com/content/images/e3/4b/e34b681ceb30c13dba3fe918e7814d75f4f9af2e.jpg?wallpaperjam.com-27725.jpg");
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -13,7 +13,7 @@ body{
     margin: 0;
     padding: 0;
   
-    font-family: 'Lobster Two', cursive;
+    font-family: 'Cormorant Garamond', serif;
 }
 .info-box{
     justify-content: center;
@@ -21,13 +21,14 @@ body{
 .row h2{
     text-align: center;
     text-decoration: underline;
+    text-shadow:  rgba(26, 9, 66, 0.966);;
 }
 .wrapper{
     width: 100%;
     background-color: rgba(0, 0, 0, 0.671);
     color: ghostwhite;
     margin: 0 auto;
-    box-shadow: 10px 10px 5px 0px rgba(39, 1, 1, 0.774);
+    box-shadow: 10px 10px 5px 0px  rgba(26, 9, 66, 0.363);
     border-radius: 20px;
 }
 .img-banner{
@@ -50,6 +51,7 @@ body{
     width: 100%;
     height: auto;
     border-radius: 20px;
+    box-shadow: 20px 20px 15px 0px  rgba(26, 9, 66, 0.363);
 }
 
 .card-footer {
@@ -57,9 +59,9 @@ body{
     bottom: 0%;
     width: 100%;
     text-align: center;
-    background-color: rgb(66, 9, 12);
+    background-color: rgba(26, 9, 66, 0.363);
     border-top-width: 5px;
-    border-color: rgb(27, 1, 1);
+    background-color: rgba(26, 9, 66, 0.534);
     color: ghostwhite;
   }
 
@@ -144,9 +146,10 @@ body{
         bottom: 0%;
         width: 100%;
         text-align: center;
-        background-color: rgb(66, 9, 12);
+        background-color: rgba(26, 9, 66, 0.534);
         border-top-width: 5px;
-        border-color: rgb(27, 1, 1);
+        background-color: rgba(26, 9, 66, 0.534);
+
         color: ghostwhite;
       }
     
