@@ -16,7 +16,7 @@ Adding social media funcions
 Adding actual professional photographs
 Adding more projects
 
-**Links** \n
+**Links**
 Site: https://devondevaughnn.github.io/updatePortfolio
 Repo: https://github.com/DevonDeVaughnn/updatePortfolio
 
