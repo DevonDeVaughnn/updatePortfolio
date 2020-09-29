@@ -1,13 +1,7 @@
-<<<<<<< HEAD
-Created a new, updated portfolio that is responsive. This houses all of my completed projects
-<img src = "/images/screenshot(81).png">
-<img src = "/images/screenshot(82).png">
-<img src = "/images/screenshot(84).png">
-=======
 # updatePortfolio
 
 This is an update to my portfolio.
-Aside from the styling changes, this portfolio is also responsive. 
+Aside from the styling changes, I have added links to my GitHub repository page and LinkedIn. I have also added two more projects to the portfolio. My portfolio is also responsive now. 
 
 
 **Website**
@@ -21,4 +15,4 @@ Using JS more effectively instead of html
 Adding social media funcions
 Adding actual professional photographs
 Adding more projects
->>>>>>> 10deea0c95e02da6077b240fe53240222022c36a
+
