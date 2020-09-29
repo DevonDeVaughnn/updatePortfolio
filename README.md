@@ -6,7 +6,7 @@ Aside from the styling changes, I have added links to my GitHub repository page 
 
 **Website**
 ![alt text](https://github.com/DevonDeVaughnn/updatePortfolio/blob/master/images/about.png?raw=true)
-![alt text](https://github.com/DevonDeVaughnn/updatePortfolio/blob/master/images/porfolio.png?raw=true)
+![alt text](https://github.com/DevonDeVaughnn/updatePortfolio/blob/master/images/portfolio.png?raw=true)
 ![alt text](https://github.com/DevonDeVaughnn/updatePortfolio/blob/master/images/contact.png?raw=true)
 
 **Future Updates**
